@@ -17,13 +17,13 @@
     {
       "id": 1,
       "name": "Facebook",
-      "url": "facebook.it",
+      "url": "https://www.facebook.it/",
       "icon": "facebook"
     },
     {
       "id": 2,
       "name": "Instagram",
-      "url": "instagram.it",
+      "url": "https://www.instagram.it/",
       "icon": "instagram"
     },
     {
