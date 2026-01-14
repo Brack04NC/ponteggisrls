@@ -25,12 +25,6 @@
       "name": "Instagram",
       "url": "https://www.instagram.it/",
       "icon": "instagram"
-    },
-    {
-      "id": 3,
-      "name": "Linkedin",
-      "url": "#",
-      "icon": "linkedin"
     }
   ],
   "services": [
@@ -44,25 +38,29 @@
       "id": 1,
       "title": " ",
       "category": " ",
-      "image": "./images/cantiere-1.jpg"
+      "image": "./images/cantiere-1.jpg",
+      "alt": "Ponteggio Roma"
     },
     {
       "id": 2,
       "title": " ",
       "category": " ",
-      "image": "./images/cantiere-2.jpg"
+      "image": "./images/cantiere-2.jpg",
+      "alt": "Ponteggio condominio San Biagio"
     },
     {
       "id": 3,
       "title": " ",
       "category": " ",
-      "image": "./images/cantiere-3.jpg"
+      "image": "./images/cantiere-3.jpg",
+      "alt": "Ponteggio Catania"
     },
     {
       "id": 4,
       "title": " ",
       "category": " ",
-      "image": "./images/cantiere-storico.jpg"
+      "image": "./images/cantiere-storico.jpg",
+      "alt": "Ponteggio Offagna"
     }
   ],
   "legal": {
